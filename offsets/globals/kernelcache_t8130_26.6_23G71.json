@@ -1,0 +1,23 @@
+{
+ "file": "kernelcache_t8130_26.6_23G71.macho",
+ "kernel_base": "0xfffffff007004000",
+ "version_string": "0xfffffff007042a45",
+ "version_off": "0x3ea45",
+ "darwin_version": "25.6.0",
+ "xnu_version": "12377.162.13",
+ "build_variant": "RELEASE_ARM64_T8122",
+ "allproc": "0xfffffff00aec5310",
+ "allproc_off": "0x3ec1310",
+ "allproc_seg": "__DATA",
+ "kernproc": "0xfffffff007bd5560",
+ "kernproc_off": "0xbd1560",
+ "kernproc_seg": "__DATA_CONST",
+ "proc0": null,
+ "notes": {
+  "allproc": "votes 3/15",
+  "kernproc": "ktask x1 load votes 5",
+  "text_instructions": 2186103
+ },
+ "platform": "t8130",
+ "relpath": "t8130/iOS_26.6_23G71/kernelcache_t8130_26.6_23G71.macho"
+}

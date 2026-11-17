@@ -1,0 +1,23 @@
+{
+ "file": "kernelcache_t8101_16.6.1_20G81.macho",
+ "kernel_base": "0xfffffff007004000",
+ "version_string": "0xfffffff007041a7d",
+ "version_off": "0x3da7d",
+ "darwin_version": "22.6.0",
+ "xnu_version": "8796.142.1",
+ "build_variant": "RELEASE_ARM64_T8101",
+ "allproc": "0xfffffff00a503670",
+ "allproc_off": "0x34ff670",
+ "allproc_seg": "__DATA",
+ "kernproc": "0xfffffff007917580",
+ "kernproc_off": "0x913580",
+ "kernproc_seg": "__DATA_CONST",
+ "proc0": null,
+ "notes": {
+  "allproc": "votes 6/30",
+  "kernproc": "ktask x1 load votes 2",
+  "text_instructions": 1861891
+ },
+ "platform": "t8101",
+ "relpath": "t8101/iOS_16.6.1_20G81/kernelcache_t8101_16.6.1_20G81.macho"
+}

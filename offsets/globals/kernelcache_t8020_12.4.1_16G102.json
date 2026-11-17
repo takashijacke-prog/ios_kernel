@@ -1,0 +1,23 @@
+{
+ "file": "kernelcache_t8020_12.4.1_16G102.macho",
+ "kernel_base": "0xfffffff007004000",
+ "version_string": "0xfffffff00702a181",
+ "version_off": "0x26181",
+ "darwin_version": "18.7.0",
+ "xnu_version": "4903.272.1",
+ "build_variant": "RELEASE_ARM64_T8020",
+ "allproc": "0xfffffff00918bde8",
+ "allproc_off": "0x2187de8",
+ "allproc_seg": "__DATA",
+ "kernproc": "0xfffffff009211e38",
+ "kernproc_off": "0x220de38",
+ "kernproc_seg": "__DATA",
+ "proc0": null,
+ "notes": {
+  "allproc": "votes 6/43",
+  "kernproc": "ktask x1 load votes 31",
+  "text_instructions": 5666508
+ },
+ "platform": "t8020",
+ "relpath": "t8020/iOS_12.4.1_16G102/kernelcache_t8020_12.4.1_16G102.macho"
+}

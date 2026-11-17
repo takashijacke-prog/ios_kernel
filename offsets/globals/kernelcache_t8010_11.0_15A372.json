@@ -1,0 +1,23 @@
+{
+ "file": "kernelcache_t8010_11.0_15A372.macho",
+ "kernel_base": "0xfffffff007004000",
+ "version_string": "0xfffffff00701dd8c",
+ "version_off": "0x19d8c",
+ "darwin_version": "17.0.0",
+ "xnu_version": "4570.2.5",
+ "build_variant": "RELEASE_ARM64_T8010",
+ "allproc": "0xfffffff00764ac78",
+ "allproc_off": "0x646c78",
+ "allproc_seg": "__DATA",
+ "kernproc": "0xfffffff00764ab90",
+ "kernproc_off": "0x646b90",
+ "kernproc_seg": "__DATA",
+ "proc0": "0xfffffff00764ab9c",
+ "notes": {
+  "allproc": "votes 6/34",
+  "kernproc": "via proc0 0xfffffff00764ab9c votes 13",
+  "text_instructions": 1269258
+ },
+ "platform": "t8010",
+ "relpath": "t8010/iOS_11.0_15A372/kernelcache_t8010_11.0_15A372.macho"
+}

@@ -1,0 +1,23 @@
+{
+ "file": "kernelcache_t8020_14.0_18A373.macho",
+ "kernel_base": "0xfffffff007004000",
+ "version_string": "0xfffffff007039b39",
+ "version_off": "0x35b39",
+ "darwin_version": "20.0.0",
+ "xnu_version": "7195.0.46",
+ "build_variant": "RELEASE_ARM64_T8020",
+ "allproc": "0xfffffff0098dd778",
+ "allproc_off": "0x28d9778",
+ "allproc_seg": "__DATA",
+ "kernproc": "0xfffffff0076cc520",
+ "kernproc_off": "0x6c8520",
+ "kernproc_seg": "__DATA_CONST",
+ "proc0": null,
+ "notes": {
+  "allproc": "votes 6/36",
+  "kernproc": "ktask addr+off base votes 5",
+  "text_instructions": 7650496
+ },
+ "platform": "t8020",
+ "relpath": "t8020/iOS_14.0_18A373/kernelcache_t8020_14.0_18A373.macho"
+}

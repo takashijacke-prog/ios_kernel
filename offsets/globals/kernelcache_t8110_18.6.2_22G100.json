@@ -1,0 +1,23 @@
+{
+ "file": "kernelcache_t8110_18.6.2_22G100.macho",
+ "kernel_base": "0xfffffff007004000",
+ "version_string": "0xfffffff007042795",
+ "version_off": "0x3e795",
+ "darwin_version": "24.6.0",
+ "xnu_version": "11417.140.69",
+ "build_variant": "RELEASE_ARM64_T8110",
+ "allproc": "0xfffffff00a6c00c0",
+ "allproc_off": "0x36bc0c0",
+ "allproc_seg": "__DATA",
+ "kernproc": "0xfffffff007a1dc00",
+ "kernproc_off": "0xa19c00",
+ "kernproc_seg": "__DATA_CONST",
+ "proc0": null,
+ "notes": {
+  "allproc": "votes 3/15",
+  "kernproc": "ktask x1 load votes 2",
+  "text_instructions": 2069069
+ },
+ "platform": "t8110",
+ "relpath": "t8110/iOS_18.6.2_22G100/kernelcache_t8110_18.6.2_22G100.macho"
+}

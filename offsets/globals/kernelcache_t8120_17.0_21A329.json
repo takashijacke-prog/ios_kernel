@@ -1,0 +1,23 @@
+{
+ "file": "kernelcache_t8120_17.0_21A329.macho",
+ "kernel_base": "0xfffffff027004000",
+ "version_string": "0xfffffff027045d5d",
+ "version_off": "0x41d5d",
+ "darwin_version": "23.0.0",
+ "xnu_version": "10002.2.11",
+ "build_variant": "RELEASE_ARM64_T8120",
+ "allproc": "0xfffffff02a2652a8",
+ "allproc_off": "0x32612a8",
+ "allproc_seg": "__DATA",
+ "kernproc": "0xfffffff0278a0fd0",
+ "kernproc_off": "0x89cfd0",
+ "kernproc_seg": "__DATA_CONST",
+ "proc0": null,
+ "notes": {
+  "allproc": "votes 6/32",
+  "kernproc": "ktask x1 load votes 8",
+  "text_instructions": 1891115
+ },
+ "platform": "t8120",
+ "relpath": "t8120/iOS_17.0_21A329/kernelcache_t8120_17.0_21A329.macho"
+}

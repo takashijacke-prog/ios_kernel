@@ -1,0 +1,23 @@
+{
+ "file": "kernelcache_t8140_18.6.2_22G100.macho",
+ "kernel_base": "0xfffffff007004000",
+ "version_string": "0xfffffff007042ad5",
+ "version_off": "0x3ead5",
+ "darwin_version": "24.6.0",
+ "xnu_version": "11417.140.69",
+ "build_variant": "RELEASE_ARM64_T8140",
+ "allproc": "0xfffffff00aeffaa0",
+ "allproc_off": "0x3efbaa0",
+ "allproc_seg": "__DATA",
+ "kernproc": "0xfffffff007bc5d90",
+ "kernproc_off": "0xbc1d90",
+ "kernproc_seg": "__DATA_CONST",
+ "proc0": null,
+ "notes": {
+  "allproc": "votes 3/15",
+  "kernproc": "ktask x1 load votes 2",
+  "text_instructions": 2124432
+ },
+ "platform": "t8140",
+ "relpath": "t8140/iOS_18.6.2_22G100/kernelcache_t8140_18.6.2_22G100.macho"
+}

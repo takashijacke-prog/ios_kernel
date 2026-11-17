@@ -1,0 +1,317 @@
+{
+ "iPhone1,1": {
+  "name": "iPhone 2G",
+  "platform": "s5l8900x",
+  "board": "m68ap"
+ },
+ "iPhone1,2": {
+  "name": "iPhone 3G",
+  "platform": "s5l8900x",
+  "board": "n82ap"
+ },
+ "iPhone2,1": {
+  "name": "iPhone 3GS",
+  "platform": "s5l8920x",
+  "board": "n88ap"
+ },
+ "iPhone3,1": {
+  "name": "iPhone 4 (GSM)",
+  "platform": "s5l8930x",
+  "board": "n90ap"
+ },
+ "iPhone3,3": {
+  "name": "iPhone 4 (CDMA)",
+  "platform": "s5l8930x",
+  "board": "n92ap"
+ },
+ "iPhone4,1": {
+  "name": "iPhone 4s",
+  "platform": "s5l8940x",
+  "board": "n94ap"
+ },
+ "iPhone3,2": {
+  "name": "iPhone 4 (GSM / 2012)",
+  "platform": "s5l8930x",
+  "board": "n90bap"
+ },
+ "iPhone5,1": {
+  "name": "iPhone 5 (GSM)",
+  "platform": "s5l8950x",
+  "board": "N41AP"
+ },
+ "iPhone5,2": {
+  "name": "iPhone 5 (Global)",
+  "platform": "s5l8950x",
+  "board": "N42AP"
+ },
+ "iPhone6,2": {
+  "name": "iPhone 5s (Global)",
+  "platform": "s5l8960x",
+  "board": "N53AP"
+ },
+ "iPhone5,3": {
+  "name": "iPhone 5c (GSM)",
+  "platform": "s5l8950x",
+  "board": "N48AP"
+ },
+ "iPhone5,4": {
+  "name": "iPhone 5c (Global)",
+  "platform": "s5l8950x",
+  "board": "N49AP"
+ },
+ "iPhone6,1": {
+  "name": "iPhone 5s (GSM)",
+  "platform": "s5l8960x",
+  "board": "N51AP"
+ },
+ "iPhone7,1": {
+  "name": "iPhone 6+",
+  "platform": "t7000",
+  "board": "N56AP"
+ },
+ "iPhone7,2": {
+  "name": "iPhone 6",
+  "platform": "t7000",
+  "board": "N61AP"
+ },
+ "iPhone8,1": {
+  "name": "iPhone 6s",
+  "platform": "s8000",
+  "board": "N71AP"
+ },
+ "iPhone8,2": {
+  "name": "iPhone 6s+",
+  "platform": "s8000",
+  "board": "N66AP"
+ },
+ "iPhone8,4": {
+  "name": "iPhone SE",
+  "platform": "s8003",
+  "board": "N69AP"
+ },
+ "iPhone9,1": {
+  "name": "iPhone 7 (Global)",
+  "platform": "t8010",
+  "board": "D10AP"
+ },
+ "iPhone9,2": {
+  "name": "iPhone 7 Plus (Global)",
+  "platform": "t8010",
+  "board": "D11AP"
+ },
+ "iPhone9,3": {
+  "name": "iPhone 7 (GSM)",
+  "platform": "t8010",
+  "board": "D101AP"
+ },
+ "iPhone9,4": {
+  "name": "iPhone 7 Plus (GSM)",
+  "platform": "t8010",
+  "board": "D111AP"
+ },
+ "iPhone10,1": {
+  "name": "iPhone 8 (Global)",
+  "platform": "t8015",
+  "board": "D20AP"
+ },
+ "iPhone10,4": {
+  "name": "iPhone 8 (GSM)",
+  "platform": "t8015",
+  "board": "D201AP"
+ },
+ "iPhone10,5": {
+  "name": "iPhone 8 Plus (GSM)",
+  "platform": "t8015",
+  "board": "D211AP"
+ },
+ "iPhone10,2": {
+  "name": "iPhone 8 Plus (Global)",
+  "platform": "t8015",
+  "board": "D21AP"
+ },
+ "iPhone10,3": {
+  "name": "iPhone X (Global)",
+  "platform": "t8015",
+  "board": "D22AP"
+ },
+ "iPhone10,6": {
+  "name": "iPhone X (GSM)",
+  "platform": "t8015",
+  "board": "D221AP"
+ },
+ "iPhone11,6": {
+  "name": "iPhone XS Max",
+  "platform": "t8020",
+  "board": "D331pAP"
+ },
+ "iPhone11,2": {
+  "name": "iPhone XS",
+  "platform": "t8020",
+  "board": "D321AP"
+ },
+ "iPhone11,4": {
+  "name": "iPhone XS Max (China)",
+  "platform": "t8020",
+  "board": "D331AP"
+ },
+ "iPhone11,8": {
+  "name": "iPhone XR",
+  "platform": "t8020",
+  "board": "N841AP"
+ },
+ "iPhone12,5": {
+  "name": "iPhone 11 Pro Max",
+  "platform": "t8030",
+  "board": "D431AP"
+ },
+ "iPhone12,1": {
+  "name": "iPhone 11",
+  "platform": "t8030",
+  "board": "N104AP"
+ },
+ "iPhone12,3": {
+  "name": "iPhone 11 Pro",
+  "platform": "t8030",
+  "board": "D421AP"
+ },
+ "iPhone12,8": {
+  "name": "iPhone SE (2020)",
+  "platform": "t8030",
+  "board": "D79AP"
+ },
+ "iPhone13,2": {
+  "name": "iPhone 12",
+  "platform": "t8101",
+  "board": "D53gAP"
+ },
+ "iPhone13,1": {
+  "name": "iPhone 12 mini",
+  "platform": "t8101",
+  "board": "D52gAP"
+ },
+ "iPhone13,4": {
+  "name": "iPhone 12 Pro Max",
+  "platform": "t8101",
+  "board": "D54pAP"
+ },
+ "iPhone13,3": {
+  "name": "iPhone 12 Pro",
+  "platform": "t8101",
+  "board": "D53pAP"
+ },
+ "iPhone14,2": {
+  "name": "iPhone 13 Pro",
+  "platform": "t8110",
+  "board": "D63AP"
+ },
+ "iPhone14,3": {
+  "name": "iPhone 13 Pro Max",
+  "platform": "t8110",
+  "board": "D64AP"
+ },
+ "iPhone14,4": {
+  "name": "iPhone 13 mini",
+  "platform": "t8110",
+  "board": "D16AP"
+ },
+ "iPhone14,5": {
+  "name": "iPhone 13",
+  "platform": "t8110",
+  "board": "D17AP"
+ },
+ "iPhone14,6": {
+  "name": "iPhone SE (3rd generation)",
+  "platform": "t8110",
+  "board": "D49AP"
+ },
+ "iPhone14,7": {
+  "name": "iPhone 14",
+  "platform": "t8110",
+  "board": "D27AP"
+ },
+ "iPhone14,8": {
+  "name": "iPhone 14 Plus",
+  "platform": "t8110",
+  "board": "D28AP"
+ },
+ "iPhone15,2": {
+  "name": "iPhone 14 Pro",
+  "platform": "t8120",
+  "board": "D73AP"
+ },
+ "iPhone15,3": {
+  "name": "iPhone 14 Pro Max",
+  "platform": "t8120",
+  "board": "D74AP"
+ },
+ "iPhone15,4": {
+  "name": "iPhone 15",
+  "platform": "t8120",
+  "board": "D37AP"
+ },
+ "iPhone15,5": {
+  "name": "iPhone 15 Plus",
+  "platform": "t8120",
+  "board": "D38AP"
+ },
+ "iPhone16,1": {
+  "name": "iPhone 15 Pro",
+  "platform": "t8130",
+  "board": "D83AP"
+ },
+ "iPhone16,2": {
+  "name": "iPhone 15 Pro Max",
+  "platform": "t8130",
+  "board": "D84AP"
+ },
+ "iPhone17,4": {
+  "name": "iPhone 16 Plus",
+  "platform": "t8140",
+  "board": "D48AP"
+ },
+ "iPhone17,2": {
+  "name": "iPhone 16 Pro Max",
+  "platform": "t8140",
+  "board": "D94AP"
+ },
+ "iPhone17,3": {
+  "name": "iPhone 16",
+  "platform": "t8140",
+  "board": "D47AP"
+ },
+ "iPhone17,1": {
+  "name": "iPhone 16 Pro",
+  "platform": "t8140",
+  "board": "D93AP"
+ },
+ "iPhone17,5": {
+  "name": "iPhone 16e",
+  "platform": "t8140",
+  "board": "V59AP"
+ },
+ "iPhone18,1": {
+  "name": "iPhone 17 Pro",
+  "platform": "t8150",
+  "board": "V53AP"
+ },
+ "iPhone18,2": {
+  "name": "iPhone 17 Pro Max",
+  "platform": "t8150",
+  "board": "V54AP"
+ },
+ "iPhone18,4": {
+  "name": "iPhone Air",
+  "platform": "t8150",
+  "board": "D23AP"
+ },
+ "iPhone18,3": {
+  "name": "iPhone 17",
+  "platform": "t8150",
+  "board": "V57AP"
+ },
+ "iPhone18,5": {
+  "name": "iPhone 17e",
+  "platform": "t8150",
+  "board": "V159AP"
+ }
+}

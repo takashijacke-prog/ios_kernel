@@ -1,0 +1,23 @@
+{
+ "file": "kernelcache_t8030_13.7_17H35.macho",
+ "kernel_base": "0xfffffff007004000",
+ "version_string": "0xfffffff007032fb1",
+ "version_off": "0x2efb1",
+ "darwin_version": "19.6.0",
+ "xnu_version": "6153.142.1",
+ "build_variant": "RELEASE_ARM64_T8020",
+ "allproc": "0xfffffff0093057f0",
+ "allproc_off": "0x23017f0",
+ "allproc_seg": "__DATA",
+ "kernproc": "0xfffffff0093192d0",
+ "kernproc_off": "0x23152d0",
+ "kernproc_seg": "__DATA",
+ "proc0": null,
+ "notes": {
+  "allproc": "votes 6/43",
+  "kernproc": "ktask x1 load votes 8",
+  "text_instructions": 5741550
+ },
+ "platform": "t8030",
+ "relpath": "t8030/iOS_13.7_17H35/kernelcache_t8030_13.7_17H35.macho"
+}

@@ -1,0 +1,23 @@
+{
+ "file": "kernelcache_t8015_12.0_16A366.macho",
+ "kernel_base": "0xfffffff007004000",
+ "version_string": "0xfffffff00702d571",
+ "version_off": "0x29571",
+ "darwin_version": "18.0.0",
+ "xnu_version": "4903.202.2",
+ "build_variant": "RELEASE_ARM64_T8015",
+ "allproc": "0xfffffff0076d6c08",
+ "allproc_off": "0x6d2c08",
+ "allproc_seg": "__DATA",
+ "kernproc": "0xfffffff0076d6b24",
+ "kernproc_off": "0x6d2b24",
+ "kernproc_seg": "__DATA",
+ "proc0": null,
+ "notes": {
+  "allproc": "votes 6/35",
+  "kernproc": "ktask x1 load votes 28",
+  "text_instructions": 1401252
+ },
+ "platform": "t8015",
+ "relpath": "t8015/iOS_12.0_16A366/kernelcache_t8015_12.0_16A366.macho"
+}

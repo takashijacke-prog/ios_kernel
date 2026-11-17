@@ -1,0 +1,23 @@
+{
+ "file": "kernelcache_t8010_10.3.3_14G60.macho",
+ "kernel_base": "0xfffffff007004000",
+ "version_string": "0xfffffff00701f5d8",
+ "version_off": "0x1b5d8",
+ "darwin_version": "16.7.0",
+ "xnu_version": "3789.70.16",
+ "build_variant": "RELEASE_ARM64_T8010",
+ "allproc": "0xfffffff0075e66f0",
+ "allproc_off": "0x5e26f0",
+ "allproc_seg": "__DATA",
+ "kernproc": "0xfffffff0075ec0c8",
+ "kernproc_off": "0x5e80c8",
+ "kernproc_seg": "__DATA",
+ "proc0": "0xfffffff0075e56e4",
+ "notes": {
+  "allproc": "votes 4/33",
+  "kernproc": "via proc0 0xfffffff0075e56e4 votes 4",
+  "text_instructions": 1164984
+ },
+ "platform": "t8010",
+ "relpath": "t8010/iOS_10.3.3_14G60/kernelcache_t8010_10.3.3_14G60.macho"
+}

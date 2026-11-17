@@ -1,0 +1,93 @@
+platform,version,buildid,example_device,identifier,url
+t8010,10.0.1,14A403,iPhone 7 (Global),"iPhone9,1","http://appldnld.apple.com/ios10.0/031-76223-20160907-1701DA0A-71FE-11E6-B30E-10B934D2D062/iPhone9,1_10.0.1_14A403_Restore.ipsw"
+t8010,10.3.3,14G60,iPhone 7 (Global),"iPhone9,1",http://appldnld.apple.com/ios10.3.3/091-23304-20170719-CA9AC9AC-6977-11E7-9507-349100BA0AE3/iPhone_7_10.3.3_14G60_Restore.ipsw
+t8010,11.0,15A372,iPhone 7 (Global),"iPhone9,1",http://appldnld.apple.com/ios11.0/091-31545-201700919-35B2511C-9027-11E7-B116-1F35B64D2808/iPhone_7_11.0_15A372_Restore.ipsw
+t8010,11.4.1,15G77,iPhone 7 (Global),"iPhone9,1",https://updates.cdn-apple.com/2018/ios/091-74947-20180709-8142FEBA-7C1C-11E8-B207-AC5B544C24EB/iPhone_4.7_P3_11.0_11.4.1_15G77_Restore.ipsw
+t8010,12.0,16A366,iPhone 7 (Global),"iPhone9,1",https://updates.cdn-apple.com/2018FallFCS/fullrestores/091-63070/11855120-AC8E-11E8-8110-D73611761120/iPhone_4.7_P3_12.0_16A366_Restore.ipsw
+t8010,12.4.1,16G102,iPhone 7 (Global),"iPhone9,1",https://updates.cdn-apple.com/2019SummerFCS/fullrestores/061-05310/A461E0E0-C4E7-11E9-9A93-FA600AD8B7A1/iPhone_4.7_P3_12.4.1_16G102_Restore.ipsw
+t8010,13.0,17A577,iPhone 7 (Global),"iPhone9,1",https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-08385/B9058DBC-C875-11E9-A82F-C5F147F3A8F5/iPhone_4.7_P3_13.0_17A577_Restore.ipsw
+t8010,13.7,17H35,iPhone 7 (Global),"iPhone9,1",https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-41895/045231CC-E8D4-4C50-B658-90F64BDA5BFE/iPhone_4.7_P3_13.7_17H35_Restore.ipsw
+t8010,14.0,18A373,iPhone 7 (Global),"iPhone9,1",https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-46745/3B2F50D2-6AA3-4048-A679-CB422D7FD773/iPhone_4.7_P3_14.0_18A373_Restore.ipsw
+t8010,14.8,18H17,iPhone 7 (Global),"iPhone9,1",https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-98010/39CE5096-991E-4C25-87BF-7FF9181C07CA/iPhone_4.7_P3_14.8_18H17_Restore.ipsw
+t8010,15.0,19A346,iPhone 7 (Global),"iPhone9,1",https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-02953/B1EB01B7-DE28-4975-B294-49BAE9599E72/iPhone_4.7_P3_15.0_19A346_Restore.ipsw
+t8010,15.8.8,19H422,iPhone 7 (Global),"iPhone9,1",https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77496/774C7319-F63C-4C05-9C6C-49F5F0966540/iPhone_4.7_P3_15.8.8_19H422_Restore.ipsw
+t8015,11.0,15A372,iPhone 8 (Global),"iPhone10,1","http://appldnld.apple.com/ios11.0/091-31750-201700919-35B0766C-9027-11E7-9375-2F35B64D2808/iPhone10,4_11.0_15A372_Restore.ipsw"
+t8015,11.4.1,15G77,iPhone 8 (Global),"iPhone10,1",https://updates.cdn-apple.com/2018/ios/091-74947-20180709-8142FEBA-7C1C-11E8-B207-AC5B544C24EB/iPhone_4.7_P3_11.0_11.4.1_15G77_Restore.ipsw
+t8015,12.0,16A366,iPhone 8 (Global),"iPhone10,1",https://updates.cdn-apple.com/2018FallFCS/fullrestores/091-63070/11855120-AC8E-11E8-8110-D73611761120/iPhone_4.7_P3_12.0_16A366_Restore.ipsw
+t8015,12.4.1,16G102,iPhone 8 (Global),"iPhone10,1",https://updates.cdn-apple.com/2019SummerFCS/fullrestores/061-05310/A461E0E0-C4E7-11E9-9A93-FA600AD8B7A1/iPhone_4.7_P3_12.4.1_16G102_Restore.ipsw
+t8015,13.0,17A577,iPhone 8 (Global),"iPhone10,1",https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-08385/B9058DBC-C875-11E9-A82F-C5F147F3A8F5/iPhone_4.7_P3_13.0_17A577_Restore.ipsw
+t8015,13.7,17H35,iPhone 8 (Global),"iPhone10,1",https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-41895/045231CC-E8D4-4C50-B658-90F64BDA5BFE/iPhone_4.7_P3_13.7_17H35_Restore.ipsw
+t8015,14.0,18A373,iPhone 8 (Global),"iPhone10,1",https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-46745/3B2F50D2-6AA3-4048-A679-CB422D7FD773/iPhone_4.7_P3_14.0_18A373_Restore.ipsw
+t8015,14.8,18H17,iPhone 8 (Global),"iPhone10,1",https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-98010/39CE5096-991E-4C25-87BF-7FF9181C07CA/iPhone_4.7_P3_14.8_18H17_Restore.ipsw
+t8015,15.0,19A346,iPhone 8 (Global),"iPhone10,1",https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-02953/B1EB01B7-DE28-4975-B294-49BAE9599E72/iPhone_4.7_P3_15.0_19A346_Restore.ipsw
+t8015,15.6.1,19G82,iPhone 8 (Global),"iPhone10,1",https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-52712/26BB2FC1-230F-460A-8DEB-D361479973EC/iPhone_4.7_P3_15.6.1_19G82_Restore.ipsw
+t8015,16.0,20A362,iPhone 8 (Global),"iPhone10,1",https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-65931/BD2515B7-7802-4EB4-9377-98E3238EA5A8/iPhone_4.7_P3_16.0_20A362_Restore.ipsw
+t8015,16.7.16,20H392,iPhone 8 (Global),"iPhone10,1",https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77002/0281BFC6-38ED-485A-A8BE-8871861174B1/iPhone_4.7_P3_16.7.16_20H392_Restore.ipsw
+t8020,12.0,16A366,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2018FallFCS/fullrestores/091-65197/11B6401E-AC8E-11E8-8834-D2D1B8DB0242/iPhone11,2_12.0_16A366_Restore.ipsw"
+t8020,12.4.1,16G102,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2019SummerFCS/fullrestores/061-05353/A454D210-C4E7-11E9-B8B7-00610AD8B7A1/iPhone11,2_12.4.1_16G102_Restore.ipsw"
+t8020,13.0,17A577,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-08680/B9063AE6-C875-11E9-AC7C-A0936C418163/iPhone11,2,iPhone11,4,iPhone11,6_13.0_17A577_Restore.ipsw"
+t8020,13.7,17H35,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-42005/4D946BA1-A613-430C-B5E0-C424B5B9715A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.7_17H35_Restore.ipsw"
+t8020,14.0,18A373,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-46850/8A4DA7D0-40E1-4079-A159-5B0983102B66/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A373_Restore.ipsw"
+t8020,14.8,18H17,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-98087/C29E3FB8-8BDF-48F9-A794-C65E95629AF6/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.8_18H17_Restore.ipsw"
+t8020,15.0,19A346,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-02879/CF24F586-A099-4E0C-A523-75ED6E459A7C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A346_Restore.ipsw"
+t8020,15.6.1,19G82,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-52967/DCE2CEF4-E428-4B8B-8A46-1C05E239E728/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6.1_19G82_Restore.ipsw"
+t8020,16.0,20A362,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-65693/1DBC7F52-108B-4D33-8203-DF9CC3244F56/iPhone11,2,iPhone11,4,iPhone11,6_16.0_20A362_Restore.ipsw"
+t8020,16.6.1,20G81,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43832/D00DE3E3-6FAA-4DAA-B17D-94CEF1B5CA1C/iPhone11,2,iPhone11,4,iPhone11,6_16.6.1_20G81_Restore.ipsw"
+t8020,17.0,21A329,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-49444/58C92BFA-E651-47E3-8B34-8585189CAA38/iPhone11,2,iPhone11,4,iPhone11,6_17.0_21A329_Restore.ipsw"
+t8020,17.7,21H16,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-79002/2CDE0E28-284D-4554-A20B-DAFB4703AF3F/iPhone11,2,iPhone11,4,iPhone11,6_17.7_21H16_Restore.ipsw"
+t8020,18.0,22A3354,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-77760/D36927A6-81C6-4921-BB99-B3F15FD7ACE3/iPhone11,2,iPhone11,4,iPhone11,6_18.0_22A3354_Restore.ipsw"
+t8020,18.7.9,22H355,iPhone XS,"iPhone11,2","https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-55581/CF2D9050-DB02-4236-8BCA-B6034061E0A5/iPhone11,2,iPhone11,4,iPhone11,6_18.7.9_22H355_Restore.ipsw"
+t8030,13.0,17A577,iPhone 11,"iPhone12,1",https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-08436/B90B9130-C875-11E9-8EF2-A06728C1246B/iPhone_13.0_17A577_Restore.ipsw
+t8030,13.7,17H35,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-41790/9C47E642-C3EC-48F7-9DEF-97C1E3C77E83/iPhone11,8,iPhone12,1_13.7_17H35_Restore.ipsw"
+t8030,14.0,18A373,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-46828/6A00C15C-8AEB-490E-A468-04E28C68E7C9/iPhone11,8,iPhone12,1_14.0_18A373_Restore.ipsw"
+t8030,14.8,18H17,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97929/2567B0BA-F9C0-4181-9D2B-E4535D65518B/iPhone11,8,iPhone12,1_14.8_18H17_Restore.ipsw"
+t8030,15.0,19A346,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-02965/E21A0F85-CE8B-410B-96E1-E367D5619112/iPhone11,8,iPhone12,1_15.0_19A346_Restore.ipsw"
+t8030,15.6.1,19G82,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-52696/AA3B1C19-3E2D-4A65-BF5D-8563C9D719BE/iPhone11,8,iPhone12,1_15.6.1_19G82_Restore.ipsw"
+t8030,16.0,20A362,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-65928/F6AF6951-3559-43EC-AC37-8698EB5E7706/iPhone12,1_16.0_20A362_Restore.ipsw"
+t8030,16.6.1,20G81,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-44699/68AF5EA3-F65A-4080-BE81-1267A5A4E3DE/iPhone12,1_16.6.1_20G81_Restore.ipsw"
+t8030,17.0,21A329,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-49390/D0DC53AB-37FC-4232-8C5F-223FC1CD7528/iPhone12,1_17.0_21A329_Restore.ipsw"
+t8030,17.7,21H16,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-78994/7B1C92E8-587E-4F7E-BB51-1DCADA45517B/iPhone12,1_17.7_21H16_Restore.ipsw"
+t8030,18.0,22A3354,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-77756/9AA40CC8-01BD-4430-9F67-6016EF20A592/iPhone12,1_18.0_22A3354_Restore.ipsw"
+t8030,18.6.2,22G100,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20728/E1C32E1F-B53D-4E6B-AD32-6C27F9BBE111/iPhone12,1_18.6.2_22G100_Restore.ipsw"
+t8030,26.0,23A341,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-40149/C2DDBCFD-327C-417B-A463-8F7820561E80/iPhone12,1_26.0_23A341_Restore.ipsw"
+t8030,26.6,23G71,iPhone 11,"iPhone12,1","https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57190/52F09F63-E4FA-4F75-9FA7-505CCB14E6D1/iPhone12,1_26.6_23G71_Restore.ipsw"
+t8101,14.1,18A8395,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-56589/DAE7DDEA-A552-4DD8-8317-DA23001FAEEE/iPhone13,1_14.1_18A8395_Restore.ipsw"
+t8101,14.8,18H17,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-98042/78053B50-F6B0-4B18-9339-611F7B7D97A5/iPhone13,1_14.8_18H17_Restore.ipsw"
+t8101,15.0,19A346,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-02999/959BE5AC-0C86-486A-9E79-E0AB5BE258E0/iPhone13,1_15.0_19A346_Restore.ipsw"
+t8101,15.6.1,19G82,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-52698/7F9356E8-F0EA-4BD9-8E8E-64D71AF1EEB4/iPhone13,1_15.6.1_19G82_Restore.ipsw"
+t8101,16.0,20A362,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-66015/1DA28194-8DC3-455E-AC71-FA44152D3CFC/iPhone13,1_16.0_20A362_Restore.ipsw"
+t8101,16.6.1,20G81,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-44665/8F6239BA-C5C7-4C99-BDD8-B03079BBA18F/iPhone13,1_16.6.1_20G81_Restore.ipsw"
+t8101,17.0,21A329,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-49503/DC2C9D6F-DCF0-4548-A034-F451EA013163/iPhone13,1_17.0_21A329_Restore.ipsw"
+t8101,17.7,21H16,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-78924/B233CE63-5984-4480-AEC3-CA367761BD9F/iPhone13,1_17.7_21H16_Restore.ipsw"
+t8101,18.0,22A3354,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-77939/55C38C64-4845-44DB-BFF5-CE167CB40632/iPhone13,1_18.0_22A3354_Restore.ipsw"
+t8101,18.6.2,22G100,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21357/2F89DDA8-1E65-4F3E-A177-3AFC0F4AB9D1/iPhone13,1_18.6.2_22G100_Restore.ipsw"
+t8101,26.0,23A341,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-41336/63A827CA-BE50-41C1-9F1B-542C6E975B71/iPhone13,1_26.0_23A341_Restore.ipsw"
+t8101,26.6,23G71,iPhone 12 mini,"iPhone13,1","https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-59011/F9817041-71C5-4681-AAB9-0478FFAF27B1/iPhone13,1_26.6_23G71_Restore.ipsw"
+t8110,15.0,19A346,iPhone 13 Pro,"iPhone14,2","https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-02399/F59733EA-9918-42A6-ACC8-DE5AA24C74AD/iPhone14,2_15.0_19A346_Restore.ipsw"
+t8110,15.6.1,19G82,iPhone 13 Pro,"iPhone14,2","https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-52415/04B2D458-9F17-4937-8ECB-60BB805C3BBB/iPhone14,2_15.6.1_19G82_Restore.ipsw"
+t8110,16.0,20A362,iPhone 13 Pro,"iPhone14,2","https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-65747/591A05A2-E535-4228-8F2B-ADA395C72D77/iPhone14,2_16.0_20A362_Restore.ipsw"
+t8110,16.6.1,20G81,iPhone 13 Pro,"iPhone14,2","https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-44704/38923EAD-BEDE-4A31-B13E-D6BF299B7711/iPhone14,2_16.6.1_20G81_Restore.ipsw"
+t8110,17.0,21A329,iPhone 13 Pro,"iPhone14,2","https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-49379/7D1DBEA2-75D7-40FE-BF6B-4C35EEFE2D13/iPhone14,2_17.0_21A329_Restore.ipsw"
+t8110,17.7,21H16,iPhone 13 Pro,"iPhone14,2","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-79095/E232F560-BF65-49C3-95F4-EACFCADDC3DB/iPhone14,2_17.7_21H16_Restore.ipsw"
+t8110,18.0,22A3354,iPhone 13 Pro,"iPhone14,2","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-77909/92DD1AB7-9AD6-4026-8301-DB738A4F1702/iPhone14,2_18.0_22A3354_Restore.ipsw"
+t8110,18.6.2,22G100,iPhone 13 Pro,"iPhone14,2","https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20815/01D7EC07-4C3A-47BD-9B33-3DDF80B83CAB/iPhone14,2_18.6.2_22G100_Restore.ipsw"
+t8110,26.0,23A341,iPhone 13 Pro,"iPhone14,2","https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-40100/1729B767-C677-4E46-8B04-C71D37AFE6EA/iPhone14,2_26.0_23A341_Restore.ipsw"
+t8110,26.6,23G71,iPhone 13 Pro,"iPhone14,2","https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57305/E76D02CF-BEF3-4CEA-A520-9B257FEDF4AC/iPhone14,2_26.6_23G71_Restore.ipsw"
+t8120,16.0,20A362,iPhone 14 Pro,"iPhone15,2","https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-66000/78F42B45-7562-4808-83A8-FDF43C4B5FAC/iPhone15,2_16.0_20A362_Restore.ipsw"
+t8120,16.6.1,20G81,iPhone 14 Pro,"iPhone15,2","https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-44327/EDD9D5D2-E1C0-4B64-B6B1-642E087BB595/iPhone15,2_16.6.1_20G81_Restore.ipsw"
+t8120,17.0,21A329,iPhone 14 Pro,"iPhone15,2","https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-49374/D2364202-FFBF-4139-B90F-A872FCCF739F/iPhone15,2_17.0_21A329_Restore.ipsw"
+t8120,17.7,21H16,iPhone 14 Pro,"iPhone15,2","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-79094/90CE304F-6C16-402E-96C9-89260D93CA82/iPhone15,2_17.7_21H16_Restore.ipsw"
+t8120,18.0,22A3354,iPhone 14 Pro,"iPhone15,2","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-77778/2D0C56D2-7F47-4346-8397-9BBFA1E1DB9D/iPhone15,2_18.0_22A3354_Restore.ipsw"
+t8120,18.6.2,22G100,iPhone 14 Pro,"iPhone15,2","https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20972/EF7B05A9-30C5-45F5-A1E4-EF4026465B85/iPhone15,2_18.6.2_22G100_Restore.ipsw"
+t8120,26.0,23A341,iPhone 14 Pro,"iPhone15,2","https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-41174/A9AE0724-CC0C-4CD5-B46C-5E09CA8DCFF7/iPhone15,2_26.0_23A341_Restore.ipsw"
+t8120,26.6,23G71,iPhone 14 Pro,"iPhone15,2","https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58069/DC46C43C-96FE-48F2-AE4D-7DF3201B1AF1/iPhone15,2_26.6_23G71_Restore.ipsw"
+t8130,17.0.2,21A350,iPhone 15 Pro,"iPhone16,1","https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-61909/7D652383-D554-4547-B782-A6F161542CF0/iPhone16,1_17.0.2_21A350_Restore.ipsw"
+t8130,17.7,21H16,iPhone 15 Pro,"iPhone16,1","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-78878/B8001671-5BAE-49BB-808E-4F399454CE8D/iPhone16,1_17.7_21H16_Restore.ipsw"
+t8130,18.0,22A3354,iPhone 15 Pro,"iPhone16,1","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-77896/A68E7F32-80F0-43FB-AD8A-C20893AB5CAC/iPhone16,1_18.0_22A3354_Restore.ipsw"
+t8130,18.6.2,22G100,iPhone 15 Pro,"iPhone16,1","https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21554/7316CD88-AFC3-45E3-872B-933027BC1754/iPhone16,1_18.6.2_22G100_Restore.ipsw"
+t8130,26.0,23A341,iPhone 15 Pro,"iPhone16,1","https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-41801/D47A87E4-8A46-46A9-A7A6-5A4A5EB79BE4/iPhone16,1_26.0_23A341_Restore.ipsw"
+t8130,26.6,23G71,iPhone 15 Pro,"iPhone16,1","https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58991/DE163F4D-2318-48AF-B641-09917A28080E/iPhone16,1_26.6_23G71_Restore.ipsw"
+t8140,18.0,22A3354,iPhone 16 Pro,"iPhone17,1","https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-77773/01645362-ACAC-4B29-BF73-A5397FA1034A/iPhone17,1_18.0_22A3354_Restore.ipsw"
+t8140,18.6.2,22G100,iPhone 16 Pro,"iPhone17,1","https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21361/F0033AA8-4016-4030-BA3A-5C6E3E1FE7D4/iPhone17,1_18.6.2_22G100_Restore.ipsw"
+t8140,26.0,23A341,iPhone 16 Pro,"iPhone17,1","https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-40536/E62697A1-4565-4068-867C-A64017377220/iPhone17,1_26.0_23A341_Restore.ipsw"
+t8140,26.6,23G71,iPhone 16 Pro,"iPhone17,1","https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57119/CBE71A83-42C2-4ED3-AAFC-190CFEF5E9C5/iPhone17,1_26.6_23G71_Restore.ipsw"
